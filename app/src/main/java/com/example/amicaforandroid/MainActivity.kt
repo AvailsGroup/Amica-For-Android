@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
                 super.onPageFinished(view, url)
             }
         }
-        webView.loadUrl("https://cherrypie-system.herokuapp.com/")
+        webView.loadUrl("https://avails-amica.com/")
     }
 
     override fun onKeyDown(keyCode: Int, event: KeyEvent?): Boolean {
